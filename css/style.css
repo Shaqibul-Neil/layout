@@ -1,0 +1,78 @@
+.header{
+	background-color: lightcoral;
+}
+.hf{
+	height: 100px;
+	border: 5px solid black;
+}
+.cmn{
+	height: 200px;
+	border: 5px solid black;
+	box-sizing: border-box;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	width: 60%;
+	background-color: lightgrey;
+	float: left;	
+}
+.cde{
+	width: 33.33%;
+	height: 100px;
+	box-sizing: border-box;
+	float: left;
+}
+.c_blog{
+	background-color: #33ff5b;
+	border: 5px solid #2980b9;
+}
+.d_blog{
+	background-color: #ff33ff;
+	border: 5px solid #a04000;
+}
+.e_blog{
+	background-color: #33ff5b;
+	border: 5px solid #2980b9;
+}
+.contact{
+	Width: 40%;
+	background-color: powderblue;
+	float: right;
+}
+.feature{
+	float: left;
+}
+.yellow{
+	width: 25%;
+	background-color: yellow;		
+}
+.brown{
+	width: 30%;
+	background-color: brown;
+}
+.pink{
+	width: 10%;
+	background-color: pink;
+}
+.violet{
+	width: 35%;
+	background-color: violet;
+}
+.content{
+	width: 33.33%;
+	float: left;
+}
+.skyblue{
+	background-color: lightskyblue;	
+}
+.teal{
+	background-color: teal;
+}
+.purple{
+	background-color: purple;
+}
+.footer{
+	background-color: orange;
+}
